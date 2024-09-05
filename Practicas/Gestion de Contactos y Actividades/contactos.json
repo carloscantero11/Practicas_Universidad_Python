@@ -1,0 +1,54 @@
+[
+    {
+        "id": 16024801,
+        "Nombre": "sin activ",
+        "Cargo": "Supervisores",
+        "Clase": "Electrico",
+        "Actividad": "mtto plc",
+        "CantActividad": 5,
+        "Fecha_inicio": "10/12/2022",
+        "Fecha_fin": "11/12/2022",
+        "Status": "concluido"
+    },
+    {
+        "id": 22024801,
+        "Nombre": "pper",
+        "Cargo": "Supervisores",
+        "Clase": "Electrico",
+        "Actividad": "MTTO MOTORES",
+        "CantActividad": 5,
+        "Fecha_inicio": "04/09/2022",
+        "Fecha_fin": "05/09/2000",
+        "Status": "PENDIENTE"
+    },
+    {
+        "id": 30024801,
+        "Nombre": "justfa",
+        "Cargo": "Tecnicos",
+        "Clase": "Electrico"
+    },
+    {
+        "id": 15024801,
+        "Nombre": "carlos perez",
+        "Cargo": "Supervisores",
+        "Clase": "Operador"
+    },
+    {
+        "id": 14024801,
+        "Nombre": "Jose Faneite Colina",
+        "Cargo": "Tecnicos",
+        "Clase": "Electrico"
+    },
+    {
+        "id": 2222,
+        "Nombre": "2222",
+        "Cargo": "Tecnicos",
+        "Clase": "Electrico"
+    },
+    {
+        "id": 12345,
+        "Nombre": "Carlos",
+        "Cargo": "Supervisores",
+        "Clase": "Electrico"
+    }
+]
