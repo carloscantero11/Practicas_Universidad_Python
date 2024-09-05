@@ -1,5 +1,5 @@
 
-## #  Mis Proyectos Python de la Universidad:
+ #  Mis Proyectos Python de la Universidad:
 Este repositorio contiene una colección de proyectos de programación en Python que he desarrollado. Estos proyectos reflejan mi aprendizaje y crecimiento como programador, explorando diferentes conceptos, bibliotecas y paradigmas de programación.
 
 ## Materias de los Proyectos Incluidos:
