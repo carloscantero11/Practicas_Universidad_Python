@@ -36,5 +36,5 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 - [Carlos Cantero](https://github.com/carloscantero11)
 
 <div align="center"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png" width="180" height"180"/>
+<img src="https://github.com/user-attachments/assets/1efea226-ee7c-4888-a267-ae7ad710628f" width="426" height="240"/>
 </div>
